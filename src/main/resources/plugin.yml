@@ -1,0 +1,10 @@
+name: Insanemobs
+version: '${project.version}'
+main: pro.diamondworld.insanemobs.InsaneMobsPlugin
+api-version: 1.16
+authors: [ Phazerous ]
+website: https://github.com/phazerous
+commands:
+  npc:
+    description: none
+    usage: /<command>

@@ -1,0 +1,8 @@
+.open bosses.db
+
+CREATE TABLE bosses (
+	id INTEGER,
+	date TEXT,
+	player VARCHAR(50),
+	damage REAL
+);

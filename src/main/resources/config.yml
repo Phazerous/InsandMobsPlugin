@@ -1,0 +1,19 @@
+summoner:
+  location:
+    x: 8
+    y: 4
+    z: 30
+  respawn_time: 60
+  name: 'Призыватель'
+  max_hp: 200
+  default_damage: 100
+
+destroyer:
+  location:
+    x: -13
+    y: 4
+    z: 8
+  respawn_time: 20
+  name: 'Разоритель'
+  max_hp: 40
+  default_damage: 2
